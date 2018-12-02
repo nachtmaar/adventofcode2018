@@ -43,6 +43,7 @@ func main() {
 				fmt.Println(id)
 				fmt.Println(id2)
 				fmt.Println(getEquality(id, id2))
+				return
 			}
 		}
 	}
